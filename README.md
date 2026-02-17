@@ -1,2 +1,2 @@
-# quadratic_c-
-Example C++ code for solving a quadratic equation
+# Quadratic Equation Solver In C++ 
+Example C++ code for solving a quadratic equation based on user input using C++.
